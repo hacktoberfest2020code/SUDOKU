@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1539953048 source:e:\sudoku\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<iomanip>
+	<process.h>
+	<time.h>
+
